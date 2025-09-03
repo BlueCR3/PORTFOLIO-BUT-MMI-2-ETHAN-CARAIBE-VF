@@ -140,7 +140,7 @@ const projects = [
     title:"Projet 20 : SAE 4.CREA.02 – Story FAQ Instagram pour l’IUT de la Guadeloupe",
     description: "Dans cette SAE , pour remettre en contexte l’objectif était de mobiliser les compétences de création, de communication digitale et de gestion de projet dans une situation réaliste : le lancement d’un compte Instagram institutionnel. Donc pour renforcer sa visibilité et son attractivité auprès des lycéens, étudiants et partenaires locaux.  Pour ce faire, nous avons créer un calendrier éditoriale sur une durée de 2 semaines pour savoir quel type de contenu nous allons publier (carrousel, story, réel, post), à quel filière s’adresse t’elle (IUT, GEA, MMI, GB, CS) et enfin quels jours seraient poster chaque contenu.Maintenant, je vais vous présenter l’un des contenues que nous avons réalisé en groupe. Dans ce projet le but étant de créer une story Instagram de type F.A.Q (Foire Aux Questions) pour informer les prochains étudiants intégrants la 2ème années pour les filières suivantes : BUT MMI, BUT GB en parcours SEE et les BUT GEA. Nous avons donc créer ce projet sur Canva en groupe, tout d’abord, nous avons créer une page de couverture avec un étudiant mis en valeur avec le logo officiel de l’IUT de la Guadeloupe et pour la police et les couleurs nous avons respecté la charte graphique du groupe création de contenu pour garder une cohérence sur les autres contenus.La seconde page se concentre sur les frais d’inscriptions, plus précisément la CVEC, qui est une taxe obligatoire perçue en parallèle aux droits d'inscription dans l'enseignement supérieur . Ensuite, nous avons créer un lien cliquable sur Instagram pour accéder aux réinscriptions pour éviter de passer par le site de L’Université des Antilles. Par la suite , nous avons établis une liste concise des documents à fournir en s’informant au préalable sur le site de l’université pour éviter les oublis de ces derniers. Pour permettre une meilleure lisibilité nous avons surligné les informations clés en orange. De plus, pour ces filières dès la deuxième année nous sommes en alternance certes mais les cours se déroulent désormais dans un CFA, il faut donc également s’inscrire dessus. Donc pareil, nous avons surligné les infos importantes et rajouté un lien qui renvoie directement au CFA. Enfin, nous avons mis les coordonnées pour contacter le service de scolarité : le mail, le numéro de téléphone fixe et l’adresse du lieu. Ainsi qu’une dernière page, s’il y a d’autres questions éventuelles pour guider au mieux nos futurs étudiants. ",
     image: "images/STORY FAQ IUT COUVERTURE.png",
-    link:"https://www.canva.com/design/DAGsmQVEJBg/dW0gqF-p3wzu-84q8IzVdw/view?utm_content=DAGsmQVEJBg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h99bcf71d32",
+    link:"https://www.canva.com/design/DAGx9CwVrrQ/3KStPEcyRce4u7cCLn3sPA/view?utm_content=DAGx9CwVrrQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15e5339ed6",
     category: "Exprimer"
   },
 ]
@@ -414,6 +414,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
