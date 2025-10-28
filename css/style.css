@@ -566,5 +566,49 @@ body {
   transition: all 0.3s ease;
   z-index: 9999;
 }
+/* ---- Réseaux sociaux du footer ---- */
+footer .social-link {
+  display: inline-block;
+  margin: 0 10px; /* Espacement horizontal entre les icônes */
+  text-decoration: none;
+  border: none !important; /* Supprime tout trait éventuel */
+}
+
+footer .social-link i {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+footer .social-link:hover i.bi-linkedin {
+  color: #0066ff; /* Bleu LinkedIn */
+  transform: scale(1.2);
+}
+
+footer .social-link:hover i.bi-instagram {
+  color: #0066ff; /* Rose Instagram */
+  transform: scale(1.2);
+}
+
+/* ---- Pied de page ---- */
+footer p,
+footer a {
+  font-size: 0.95rem;
+  color: #ccc;
+}
+
+footer a:hover {
+  color: #3498db; /* Bleu clair au survol */
+}
+
+footer .col-md-4 a {
+  border: none !important;
+}
+
+@media (max-width: 768px) {
+  footer .col-md-4 {
+    flex-direction: column !important;
+    gap: 4px;
+  }
+}
+
 
 
