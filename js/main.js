@@ -30,36 +30,34 @@ const projects = [
   },
   {
     title: "SAE 1.05 : Produire un site web",
-    description: "Dans ce troisième projet , l’objectif était de développer pour le web et les médias numériques . Pour commencer , il fallait constituer un groupe de 3 , trouver le nom d’une agence et choisir un sujet pour la création du site . Par exemple avec mon groupe , notre agence s’appelait  » Watermelon Agency » et le thème était sur la culture guadeloupéenne. Ensuite , il fallait faire une brève présentation de notre thématique . Puis constituer une « première maquette » ( une ébauche) et plus tard , une maquette animée qui a été réalisée par mes camarades à l’aide du logiciel « Figma » . On a également fais une répartition des tâches : une personne pour le design des pages , un autre pour la programmation en HTML et CSS et moi qui faisait la recherches des informations. Notre page web est constitué de 4 pages : une page d’accueil et les trois autres traitent sur un sujet de la culture guadeloupéenne ( Cuisine , Danses , Arts). De mon côté , je me suis renseigné sur chaque sujet en faisant des recherches sur internet et j’ai aussi cherché des images pour illustrer les pages de notre site mais j’ai aussi aidé ma camarade pour le code en réalisant 2 pages du site et après , elle a amélioré la mise en page afin que les pages soient plus agréables visuellement . Enfin , je suis particulièrement satisfait de ce projet car il est celui que je trouve le mieux réalisé pour le moment",
+    description: "Création en groupe d’un site web sur la culture guadeloupéenne, avec 4 pages thématiques. Participation à la recherche de contenu et au développement HTML/CSS du site. Travail collaboratif sur Figma et contribution à la mise en page responsive.",
     image: "images/Culture-Gwada-1-cp.jpg",
     link: "https://culture-guadeloupeenne.onrender.com/",
     category: "Développer"
   },
   {
     title: "Projet tournois de jeux vidéos",
-    description: "Pour ce travail en groupe , il fallait effectuer un projet quelconque en faisant un planning ,un SMART ainsi qu’une affiche . Pour ce faire , nous avons décidé de créer un tournois de jeux vidéos où la participation était gratuite . Avant tout ça , nous avons répartis les tâches :  la partie communication , design , budgétaire et matérielle avec des deadlines pour chaque tâche. Ensuite , on a pensé aux lots pour les gagnants qui sont au nombre de 3 ( figurine , casque et manette PS5) . On a vérifié qu’on avait tous le matériel qu’on avait à disposition ( manettes , ordinateurs et câbles). On a établi un budget de 200€ pour financer tous notre projet ainsi qu’une tombola pour ceux qui voulaient gagner un lot. Enfin , nous avons réservé une salle à l’université , communiquer notre tournoi via WhatsApp vu qu’il était uniquement pour la classe. ",
-    image: "images/Affiche-Gaming-Tournament-cp.jpg",
+    description: "Mise en place d’un tournoi e-sport étudiant, de la planification à la communication. Répartition des rôles, création d’un budget prévisionnel de 200 €, conception d’une affiche et gestion logistique complète de l’événement à l’université.",
     link: "https://www.canva.com/design/DAGm4Me-jhg/ca33ec5SBwGbj40pF9Vu2g/view?utm_content=DAGm4Me-jhg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbaa569b1db",
     category: "Entreprendre"
   },
   {
     title: "Affiche gardien de la galaxie",
-    description: "Pour ce devoir , il fallait créer une affiche pour un autre film en reprenant la technique utilisée pour le tutoriel AFFICHE X-MEN. En l’occurrence , j’ai pris comme personnage Star Lord du film « Les Gardiens de la Galaxie » en incrustant à un fond de type paysage extraterrestre et pour rajouter du réalisme j’ai repris la police d’écriture exacte ( Guardian) . Tout cela en m’inspirant du tutoriel évoqué précédemment.",
+    description: "Réalisation d’une affiche inspirée du tutoriel “Affiche X-Men” en utilisant Photoshop. Incrustation du personnage Star-Lord sur un fond extraterrestre, travail sur la typographie originale et la composition pour obtenir un rendu réaliste et professionnel.",
     image: "images/Affiche gardien de la galaxie 2.png", // mets le vrai nom de ton image ici
     link: "https://www.canva.com/design/DAGm4LKYzfA/jkJBF8rqKDWi9t2rKSmZjQ/view?utm_content=DAGm4LKYzfA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdcaa445dde",
     category: "Exprimer"
   },
   {
   title: "SAE 1.04 : Produire un contenu audio et visuel :",
-  description: "Dans ce projet , en groupe , il fallait trouver une idée , créer un scénario , faire le découpage technique , tourner le film et enfin , faire un montage de ce dernier . L’ objectif était de concevoir un court-métrage d’une fiction de 3 minutes maximum . Voici notre synopsis : Nous suivons la vie d’un homme passionné par le mime, mais malheureusement, son talent est incompris et se retrouve souvent moqué et insulté par les autres. Il se sent seul et rejeté à cause de sa passion. On a également fais la répartition des rôles : un caméraman , trois personnages principaux et 2 figurants . Dans mon cas , j’étais caméraman et donc je me suis occupé du tournage de chaque séquence . Chaque membre du groupe a apporté son point de vue pour chaque prise afin d’améliorer ou non la qualité du film .",
-  image: "images/miniature silent resilience.jpg", // miniature de ta vidéo
+  description: "Conception en groupe d’un court-métrage de 3 minutes, de l’écriture du scénario au montage final. J’ai assuré la captation vidéo en tant que cameraman et participé à la direction artistique pour garantir la cohérence visuelle du projet.",
   videoLink: "https://youtu.be/VSV6v8G04TM", // remplace avec ton lien
   category: "Exprimer"
   },
 // Projet 9 : Présentation Canva
   {
   title: "Stratégie de communication pour l’agence Penchard Voyages",
-  description: "Pour ce travail, il fallait présenter une agence de voyage en analysant sa strategie de communication. Pour ce faire, il fallait choisir une agence, s’informer sur eux. Ensuite, on devait repérer les axes de communication, les cibles (touristes, homme d’affaire), les moyens / canaux de communications (réseaux sociaux, campagnes…). Pour terminer, quels seraient les points à ameliorer sur leurs communications par rapport à la veille concurrentielle.",
+  description: "Analyse complète de la stratégie de communication de l’agence : identification des cibles, canaux utilisés et positionnement. Proposition d’axes d’amélioration à partir d’une veille concurrentielle et d’une étude de marché.",
   image: "images/miniaPenchardVoyages.png", // miniature de présentation Canva
   link: "https://www.canva.com/design/DAF9hgMg5fk/tj5q3TEPBid1fU-6yhUauA/view?utm_content=DAF9hgMg5fk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8031a5b60c", // lien Canva
   category: "Comprendre"
@@ -68,7 +66,7 @@ const projects = [
 // Projet 10 : Vidéo Audit – Partie 1
   {
   title: "SAE 1.01 : Auditer une communication numérique",
-  description: "Dans ce premier projet , le but était de comprendre les écosystèmes, les besoins des utilisateurs et les dispositifs de communication numérique. Pour ce faire , nous devons former un groupe de 4 personnes , choisir 2 vidéos qui proviennent d’ une chaîne YouTube qui se nomme « Cellule Enov » . Ensuite , nous devons analyser chacune des vidéos en donnant les points positifs et négatifs afin de savoir ce qu’il fallait améliorer . Par exemple , il fallait vérifier si la vidéo était de bonne qualité au niveau visuel et sonore , si les explications étaient claires et précises, si la vidéo était référencée ou pas , si la vidéo était structurée ( avec une introduction , un développement , une conclusion) ou encore si le langage et le format était adapté au public visé . Tous ces critères permettaient d’apporter des améliorations à ces dernières.",
+  description: "Réalisation d’un audit de vidéos YouTube de la chaîne Cellule Enov. Évaluation de la qualité visuelle, sonore et de la pertinence du discours. Identification des points d’amélioration en termes de référencement et structure narrative.",
   image: "images/miniaVidéoCelluleEnov.png",
   videoLink: "https://youtu.be/i03nImANt1k?si=dkYsDkVAuSJQ318M",
   category: "Comprendre"
@@ -82,21 +80,21 @@ const projects = [
   },
   {
     title: "SAE 1.02 : Concevoir une recommandation de communication numérique ",
-    description: "Dans ce second projet , le but était de concevoir ou coconcevoir une réponse stratégique pertinente à une problématique complexe. Tout d'abord , on devait choisir une ou plusieurs notions ( grammaire , conjugaison …) pour promouvoir les cours en anglais. Ensuite , en tant que chargés de communication juniors, nous devons concevoir une recommandation de communication pour la sortie ou le repositionnement d’un produit ou d’un service dans un contexte international. En l'occurrence ici , c'était le repositionnement d'un service car il fallait créer une affiche ludique et attractive en anglais qui présentait une notion d'un cours afin de permettre aux élèves/étudiants de continuer l'apprentissage de cette langue vivante.",
+    description: "Conception d’une affiche promotionnelle en anglais destinée à valoriser l’apprentissage des langues. Élaboration d’une stratégie visuelle et rédactionnelle ludique pour rendre le message attractif et adapté à un public étudiant.",
     image: "images/English.png",
     link: "https://www.canva.com/design/DAFyUNRujp8/2Ht9FxQdbNnNgxMOk1ualQ/view?utm_content=DAFyUNRujp8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha472e828f2",
     category: "Concevoir"
   },
   {
     title: "Design émotionnel pour une campagne de sensibilisation (chlordécone)",
-    description: "Dans ce devoir , il fallait créer un design émotionnel pour une campagne de sensibilisation à la pollution au chlordécone en Guadeloupe . L’objectif était de permettre aux étudiants d’appréhender, les principes du design émotionnel en les invitant à créer une affiche, un produit ou une page d’accueil d’un site internet pour une campagne de sensibilisation à la pollution au chlordécone en Guadeloupe. Tout d’abord , il fallait identifier le problème en analysant les effets néfastes de la pollution au chlordécone sur l’environnement (sol, mer rivière…), les habitants, les plantations et les émotions ressenties face à ce problème (colère,tristesse, impuissance, etc.). Ensuite , il fallait définir les objectifs émotionnels . Puis , j’ai du appliquer les techniques de design émotionnel en faisant du storytelling  , un design sensoriel et d’interaction . Enfin , j’ai créer une affiche qui permet de diffuser le message de manière concise et percutante dans des espaces publics.",
+    description: "Création d’une affiche de sensibilisation sur la pollution au chlordécone. Application des principes du design émotionnel (storytelling, couleurs, composition) pour susciter l’empathie et inciter à la prise de conscience écologique.",
     image: "images/Affiche-de- campagne-de sensibilisation-sur le-chlordécone.jpg",
     link: "https://www.canva.com/design/DAGDFYbt4aE/LvLMNvd8bfHjnrczHnVi5g/view?utm_content=DAGDFYbt4aE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e31defddb",
     category: "Concevoir"
   },
   {
     title: "SAE 2.02 : Concevoir un produit ou un service et sa communication",
-    description: "Dans ce projet, les objectifs étaient :  de concevoir ou co-concevoir une réponse stratégique pertinente à une problématique complexe d’exprimer un message avec les médias numériques pour informer et communiquer , de développer pour le web et les médias numériques et d’entreprendre dans le secteur du numérique . Pour commencer , il fallait constituer un groupe de 3 et après il fallait se répartir les rôles et les tâches , c’est-à-dire une personne faisait la partie design , une autre la communication/marketing et la dernière la création du site web. Pour ma part , je me suis occupé de la création d’un site de type vitrine pour une marque de thé glacé en Guadeloupe (Thé Pays) en intégrant 4 pages principales : Accueil , Nos boissons ( shop) , A propos de nous et Contact en reprenant les codes et valeurs de l’entreprise.  J’ai également assurer la gestion et la suivi du projet en faisant des comptes rendus et un diagramme de Gantt .", 
+    description: "Conception d’un site vitrine pour une marque de thé glacé locale. Gestion du projet web complet : création des pages principales, élaboration du diagramme de Gantt et suivi du planning. Projet associant design, communication et développement web.",
     image: "images/minia site thé pays.png",
     link: "https://xn--thpays-cva.com/",
     category: "Développer"
@@ -414,6 +412,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
