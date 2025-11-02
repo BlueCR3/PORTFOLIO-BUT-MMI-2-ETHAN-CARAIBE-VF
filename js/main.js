@@ -38,6 +38,7 @@ const projects = [
   {
     title: "Projet tournois de jeux vidéos",
     description: "Mise en place d’un tournoi e-sport étudiant, de la planification à la communication. Répartition des rôles, création d’un budget prévisionnel de 200 €, conception d’une affiche et gestion logistique complète de l’événement à l’université.",
+    image: "images/Affiche-Gaming-Tournament-cp.jpg",
     link: "https://www.canva.com/design/DAGm4Me-jhg/ca33ec5SBwGbj40pF9Vu2g/view?utm_content=DAGm4Me-jhg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbaa569b1db",
     category: "Entreprendre"
   },
@@ -51,6 +52,7 @@ const projects = [
   {
   title: "SAE 1.04 : Produire un contenu audio et visuel :",
   description: "Conception en groupe d’un court-métrage de 3 minutes, de l’écriture du scénario au montage final. J’ai assuré la captation vidéo en tant que cameraman et participé à la direction artistique pour garantir la cohérence visuelle du projet.",
+  image: "images/miniature silent resilience.jpg", // miniature de ta vidéo
   videoLink: "https://youtu.be/VSV6v8G04TM", // remplace avec ton lien
   category: "Exprimer"
   },
@@ -73,7 +75,7 @@ const projects = [
   },
   {
     title: "Concevoir une affiche pour présenter les différentes filières de L'IUT ",
-    description: "Conception d’un flyer institutionnel présentant les formations de l’IUT de la Guadeloupe : mise en page colorée et hiérarchisée, intégration de QR codes interactifs, typographie moderne et respect de la charte graphique de l’établissement."
+    description: "Conception d’un flyer institutionnel présentant les formations de l’IUT de la Guadeloupe : mise en page colorée et hiérarchisée, intégration de QR codes interactifs, typographie moderne et respect de la charte graphique de l’établissement.",
     image: "images/Affiche-formations-IUT-de-la-Guadeloupe-V2.jpg",
     link: "https://www.canva.com/design/DAGm4b3asew/9jFQQ3SsQd8_qg2sC1igrQ/view?utm_content=DAGm4b3asew&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc9f03ec26",
     category: "Concevoir"
@@ -412,6 +414,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
