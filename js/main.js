@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Réaliser un visionboard",
-    description: "Pour ce travail , il fallait réaliser un collage ou une affiche représentant votre image de soi idéale via un vision board branding (soit par canva ou tout autre outil dédié ) en utilisant des mots , des affirmations , des lieux , des personnes qui vous inspirent par exemple.",
+    description: "Réalisation d’un vision board branding illustrant mon image de soi idéale à travers un collage de mots, lieux et personnes inspirantes. Conçu sur Canva, ce projet m’a permis d’explorer l’expression visuelle personnelle et le travail sur l’identité à travers la composition et le symbolisme graphique.",
     image: "images/My-Vision-Board-cp 3.jpg",
     link: "https://www.canva.com/design/DAF1wsKcaUk/Af4gws3IdFzYdtLatbncwA/view?utm_content=DAF1wsKcaUk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h53ca4d089c",
     category: "Entreprendre"
@@ -101,7 +101,7 @@ const projects = [
   },
   {
     title: "Vidéo type Day in my life à l’ASFO",
-    description: "Type : Vidéo storytelling Outils utilisés : Smartphone, montage vidéo (Canva et Zub Title) Objectif : Mettre en scène une journée type de formation à l’ASFO à travers une narration immersive et rythmée Dans le cadre de ma formation, j’ai réalisé une vidéo de type “Day in my life” visant à illustrer, de manière authentique et dynamique, une journée typique passée à l’ASFO. Ce projet avait pour but de combiner narration personnelle, prise de vue, montage et storytelling, tout en adoptant un ton à la fois informatif et engageant. La vidéo suit le déroulé complet de ma journée, depuis mon réveil jusqu’au retour à la maison, en passant par le trajet en bus, les cours (dont un exposé sur le Green IT), la pause déjeuner dans un restaurant local, et un atelier de création graphique. Le récit est ponctué de touches d’humour, de réflexions personnelles et de commentaires en voix off pour renforcer l'immersion. Ce projet m’a permis de travailler l’écriture de script, la gestion du rythme en montage, la voix off ainsi que la mise en scène du quotidien dans une logique de contenu engageant, proche des codes utilisés sur les réseaux sociaux.",
+    description: "Réalisation d’une vidéo storytelling “Day in My Life à l’ASFO “, illustrant une journée de formation de façon immersive et rythmée. Tournée au smartphone et montée sur Canva et Zubtitle, la vidéo combine narration, humour et voix off pour un rendu authentique. Ce projet m’a permis de travailler le storytelling, le montage et la mise en scène du quotidien.",
     image: "images/Day in my Life by EC.png",
      link: "https://www.canva.com/design/DAGVYG3a2Bo/mzSUH_haA0OEdbBK1RmuBQ/watch?utm_content=DAGVYG3a2Bo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h489805ea3b",
     category: "Entreprendre"
@@ -412,6 +412,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
