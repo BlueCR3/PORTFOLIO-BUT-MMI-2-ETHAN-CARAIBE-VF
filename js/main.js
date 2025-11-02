@@ -2,7 +2,7 @@
 const projects = [
   {
     title: "Créer un post Instagram pour une marque de voiture",
-    description: "Dans ce projet, il fallait créer un poste de voiture autour de la marque Aixam. Pour commencer, il fallait créer un fichier sur Photoshop avec les dimensions suivantes : 1080 pixels par 1350 pixels.Ensuite, il fallait changer la couleur de la voiture qui était rouge pour qu'elle devienne bleu en utilisant un masque de saturation . Après on devait créer un arrière plan afin de rajouter les infos suivantes :le modèle de la voiture, le slogan, le prix du véhicule et enfin le logo de la marque. Sachant qu'il fallait varier les typographies et bien respecter les espaces entre chaque élément pour créer un post agréable visuellement.",
+    description: "Création d’un post Instagram promotionnel pour la marque Aixam sur Photoshop. Retouche de la couleur du véhicule, conception d’un arrière-plan et intégration du modèle, slogan, prix et logo avec une composition harmonieuse et lisible. ",
     image: "images/post-voiture-1080x1350-cp.jpg",
     link:"https://www.canva.com/design/DAGm4Ma85Mw/UYUFDwJchmaSkditvLz2Dg/view?utm_content=DAGm4Ma85Mw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86a8d4eb7a",
     category: "Exprimer"
@@ -414,6 +414,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
