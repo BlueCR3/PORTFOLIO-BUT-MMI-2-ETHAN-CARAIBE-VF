@@ -143,7 +143,13 @@ const projects = [
     link:"https://www.canva.com/design/DAGx9CwVrrQ/3KStPEcyRce4u7cCLn3sPA/view?utm_content=DAGx9CwVrrQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15e5339ed6",
     category: "Exprimer"
   },
-]
+  {
+    title:"Court-métrage thriller – Travail du hors-champ et du sound design",
+    description: "Réalisation d’un court-métrage thriller reposant sur le principe du hors-champ et un travail approfondi de sound design. À partir de rushs imposés, j’ai assuré le tri des plans, le montage sur DaVinci Resolve et la création de l’ambiance sonore afin d’installer tension et narration sans montrer explicitement la violence. Ce projet met en avant des choix artistiques forts et une construction narrative immersive jouant sur l’ambiguïté et l’émotion du spectateur.",
+    image: "images/CAPTURE THRILLER HORS CHAMP.png",
+    videoLink: "https://youtu.be/nEBoauXwSJQ",
+    category: "Exprimer"
+  },
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
 
 function renderProjects(category = "all") {
@@ -414,6 +420,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
