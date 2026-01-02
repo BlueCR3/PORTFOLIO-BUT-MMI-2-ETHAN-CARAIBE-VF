@@ -154,7 +154,7 @@ const projects = [
     title:"GwadaCollect – Application de suivi des collectes de déchets en Guadeloupe",
     description:"GwadaCollect est un projet de groupe visant à concevoir une application mobile éco-citoyenne pour améliorer la communication autour de la collecte des déchets en Guadeloupe. La solution centralise les informations de collecte, envoie des notifications personnalisées et propose un guide du tri local. Ce projet m’a permis de travailler sur la réflexion stratégique, l’analyse des besoins utilisateurs et la conception d’un service numérique à impact local.",
     image: "",
-    link: "https://www.canva.com/design/DAG9SM6mTdo/HdNHmY0pjUDkGonRRWZbfA/view?utm_content=DAG9SM6mTdo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6e0c4315a",
+    link: "https://www.canva.com/design/DAG1n7LIqwo/E2RX_kUmHXKaFAPkbQr2lw/view?utm_content=DAG1n7LIqwo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8dab637b84",
     category: "Entreprendre"
   },
 ]
@@ -428,6 +428,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
