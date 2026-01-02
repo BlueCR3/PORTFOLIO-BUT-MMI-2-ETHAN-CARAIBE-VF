@@ -150,6 +150,7 @@ const projects = [
     videoLink: "https://youtu.be/nEBoauXwSJQ",
     category: "Exprimer"
   },
+]
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
 
 function renderProjects(category = "all") {
@@ -420,6 +421,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
