@@ -167,7 +167,7 @@ const projects = [
   {
     title: "Conduite du changement – Conception d’un cours et étude de cas",
     description: "Conception en groupe d’un cours sur la conduite du changement, destiné à expliquer les méthodes d’accompagnement lors d’une transformation en entreprise. Je me suis chargé de définir le concept, d’exposer les étapes clés et de présenter un cas concret professionnel, illustrant l’importance d’une démarche structurée et humaine.",
-    image: "images/R5.02_Conduite du changement SABAN & CARAIBE COURS.pdf.jpg",
+    image: "images/R5.02_Conduite du changement SABAN & CARAIBE COURS.jpg",
     link: "https://www.canva.com/design/DAG9pUNhEIE/YYwKXHepMv8tYENuWW2KVg/view?utm_content=DAG9pUNhEIE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac8e105987",
     category: "Exprimer"
   },
@@ -442,6 +442,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
