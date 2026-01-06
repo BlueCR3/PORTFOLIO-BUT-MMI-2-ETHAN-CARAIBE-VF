@@ -158,11 +158,18 @@ const projects = [
     category: "Entreprendre"
   },
   {
-    title: "Post Jeux Vidéos",
+    title: "Post éditorial Jeux Vidéo – Média Blo’k Actu",
     description: "Réalisation d’un post éditorial pour le média Blo’k Actu visant à mettre en avant les sorties de jeux vidéo de la période hivernale. J’ai assuré la recherche des titres, la sélection des extraits et la rédaction de la description, en respectant la ligne éditoriale et la direction artistique du média afin de diversifier les contenus proposés.",
     image:"images/jv nouveautés (1080 x 1350 px).jpg",
     link:"https://www.canva.com/design/DAG2bt7zJkE/GhNNqq9Zo-ztsU8SJrUZVA/watch?utm_content=DAG2bt7zJkE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h262dabe7c3",
     category: "Entreprendre"
+  },
+  {
+    title: "Conduite du changement – Conception d’un cours et étude de cas",
+    description: "Conception en groupe d’un cours sur la conduite du changement, destiné à expliquer les méthodes d’accompagnement lors d’une transformation en entreprise. Je me suis chargé de définir le concept, d’exposer les étapes clés et de présenter un cas concret professionnel, illustrant l’importance d’une démarche structurée et humaine.",
+    image: "images/R5.02_Conduite du changement SABAN & CARAIBE COURS.pdf.jpg",
+    link: "https://www.canva.com/design/DAG9pUNhEIE/YYwKXHepMv8tYENuWW2KVg/view?utm_content=DAG9pUNhEIE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac8e105987",
+    category: "Exprimer"
   },
 ]
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
@@ -435,6 +442,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
