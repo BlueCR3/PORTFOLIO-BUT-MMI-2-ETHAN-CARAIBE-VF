@@ -157,6 +157,13 @@ const projects = [
     link: "https://www.canva.com/design/DAG1n7LIqwo/E2RX_kUmHXKaFAPkbQr2lw/view?utm_content=DAG1n7LIqwo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8dab637b84",
     category: "Entreprendre"
   },
+  {
+    title: "Post Jeux Vidéos",
+    description: "Réalisation d’un post éditorial pour le média Blo’k Actu visant à mettre en avant les sorties de jeux vidéo de la période hivernale. J’ai assuré la recherche des titres, la sélection des extraits et la rédaction de la description, en respectant la ligne éditoriale et la direction artistique du média afin de diversifier les contenus proposés.",
+    image:"images/jv nouveautés (1080 x 1350 px).jpg",
+    link:"https://www.canva.com/design/DAG2bt7zJkE/GhNNqq9Zo-ztsU8SJrUZVA/watch?utm_content=DAG2bt7zJkE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h262dabe7c3",
+    category: "Entreprendre"
+  },
 ]
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
 
@@ -428,6 +435,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
