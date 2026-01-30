@@ -171,6 +171,13 @@ const projects = [
     link: "https://www.canva.com/design/DAG9pUNhEIE/YYwKXHepMv8tYENuWW2KVg/view?utm_content=DAG9pUNhEIE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac8e105987",
     category: "Exprimer"
   },
+  {
+    title:"Atelier FAB Lab – Initiation à l’impression 3D",
+    description:"Dans le cadre de ma formation en BUT MMI, j’ai participé à un atelier au BIK’LAB dédié à l’initiation à l’impression 3D. Cet atelier m’a permis de découvrir le fonctionnement d’un FAB Lab, les principes de fabrication additive et soustractive, ainsi que les enjeux techniques et éthiques liés à cette technologie. Accompagné par un intervenant professionnel, j’ai réalisé ma première impression 3D, du choix du modèle à la préparation du fichier et au lancement de l’impression. Ce projet m’a donné une vision concrète du prototypage numérique comme outil d’innovation au service de projets multimédias.",
+    image:"images/cropped-lebiklab_logo.png,Capture d'écran 2026-01-27 142007.png",
+    link:"https://www.canva.com/design/DAG_71LYvt0/E-dc-7gUghuCpi6Ds9jkjg/view?utm_content=DAG_71LYvt0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h170d9b2ce8",
+    category: "Entreprendre"
+  },
 ]
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
 
@@ -442,6 +449,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
