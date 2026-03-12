@@ -183,14 +183,14 @@ const projects = [
     description:"Pour l'assemblée générale de l’UNSA Douanes, j'ai conçu une affiche format A3 destinée à l’affichage officiel en Guadeloupe. En m'appuyant sur Canva, j’ai décliné la charte graphique du syndicat pour garantir une cohérence visuelle, tout en intégrant des icônes thématiques pour faciliter la lecture des informations clés (date, lieu, intervenants). Le projet s'est conclu par un travail de finition avec un imprimeur professionnel, assurant un rendu optimal pour le panneau d'affichage. Cette réalisation souligne ma capacité à répondre à une commande concrète en alliant créativité, respect d'une identité de marque et gestion de la chaîne de production.",
     image: "ASSEMBLÉE GÉNÉRALE UNSA DOUANES FORMAT 15X20 (A5).png",
     link:"https://www.canva.com/design/DAGoIS1c7q4/eth_s_ypdGqZGoNMOuRzKA/view?utm_content=DAGoIS1c7q4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5bdeda2349",
-    category:"Exprimer"
+    category:"all"
   },
   {
     title:"Documentaire - Le Joueur Intérieur",
     description:"« Le Joueur intérieur » est un projet documentaire personnel explorant le jeu vidéo comme miroir de la psyché humaine. À travers une approche introspective, j’ai analysé comment nos comportements virtuels — nos choix spontanés, notre gestion de l’échec et nos attirances ludiques — révèlent des traits de personnalité souvent enfouis dans le réel. Pour traduire cette réflexion, j'ai privilégié une esthétique minimaliste et un montage au rythme posé, créant une atmosphère intimiste éclairée par le seul reflet des écrans. Ce film dépasse le simple divertissement pour présenter le jeu comme un espace d'exploration de soi, invitant le spectateur à s'interroger sur sa propre identité à travers ses expériences numériques.",
     image: "Capture d'écran Docu Le Joueur Intérieur.png",
     videoLink:"https://youtu.be/HjOy6rqdkDE",
-    category:"Exprimer"
+    category:"all"
   },
 ]
 let currentFilteredProjects = []; // <-- Tableau des projets affichés
@@ -463,6 +463,7 @@ document.getElementById("email").addEventListener("input", function () {
     emailHelp.classList.remove("d-none");
   }
 });
+
 
 
 
